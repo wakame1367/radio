@@ -1,0 +1,39 @@
+{
+  "format": "radio/station-1",
+  "name": "モーニング・シグナル",
+  "tagline": "朝のニュースを、ラジオで。",
+  "description": "毎朝、ネットのニュースを音声でお届けする個人放送局",
+  "url": "https://wakame.github.io/radio/",
+  "repo": "https://github.com/wakame/radio",
+  "language": "ja",
+  "schedule": {"every": "day", "time": "06:30", "timezone": "Asia/Tokyo"},
+  "episodes": "episodes.json",
+  "audio": {"dir": "audio", "keep_days": 30},
+  "credits": ["VOICEVOX:四国めたん"],
+  "voice": {
+    "engine": "voicevox",
+    "style_id": 2,
+    "speed": 1.05,
+    "comment": "style_id で話者を替えられる。2=四国めたん 3=ずんだもん 8=春日部つむぎ 10=雨晴はう (VVM 0)。audition/ の試聴ページで選んで書き換える"
+  },
+  "bgm": {
+    "file": "bgm/morning.mp3",
+    "volume": 0.14,
+    "enabled": true
+  },
+  "sources": {
+    "rss": [
+      {"name": "はてなブックマーク 総合", "url": "https://b.hatena.ne.jp/hotentry.rss", "max": 15},
+      {"name": "はてなブックマーク IT", "url": "https://b.hatena.ne.jp/hotentry/it.rss", "max": 15},
+      {"name": "Google Trends JP", "url": "https://trends.google.com/trending/rss?geo=JP", "max": 15},
+      {"name": "GIGAZINE", "url": "https://gigazine.net/news/rss_2.0/", "max": 10},
+      {"name": "Publickey", "url": "https://www.publickey1.jp/atom.xml", "max": 10},
+      {"name": "Zenn", "url": "https://zenn.dev/feed", "max": 8}
+    ],
+    "hn_frontpage": {"enabled": true, "max": 10}
+  },
+  "episode": {
+    "news_count": 6,
+    "style": "落ち着いた朝のニュース番組。事実を簡潔に。推測や煽りはしない"
+  }
+}

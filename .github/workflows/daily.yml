@@ -1,0 +1,72 @@
+name: daily broadcast
+
+on:
+  schedule:
+    - cron: "30 21 * * *"   # 06:30 JST
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "episode date (YYYY-MM-DD, empty = today JST)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: cache TTS models
+        uses: actions/cache@v4
+        with:
+          path: models/
+          key: tts-models-v1
+
+      - name: install deps
+        run: |
+          pip install -r requirements.txt
+          pip install https://github.com/VOICEVOX/voicevox_core/releases/download/0.17.1/voicevox_core-0.17.1-cp310-abi3-manylinux_2_34_x86_64.whl
+
+      - name: fetch TTS models (if not cached)
+        run: |
+          set -e
+          mkdir -p models/vvm
+          [ -f models/vvm/0.vvm ] || curl -sL -o models/vvm/0.vvm \
+            https://github.com/VOICEVOX/voicevox_vvm/releases/download/0.17.1/0.vvm
+          if [ ! -d models/open_jtalk_dic_utf_8-1.11 ]; then
+            curl -sL https://github.com/r9y9/open_jtalk/releases/download/v1.11.1/open_jtalk_dic_utf_8-1.11.tar.gz \
+              | tar xz -C models/
+          fi
+          if ! ls models/voicevox_onnxruntime-*/lib/libvoicevox_onnxruntime.so.* >/dev/null 2>&1; then
+            curl -sL https://github.com/VOICEVOX/onnxruntime-builder/releases/download/voicevox_onnxruntime-1.23.2/voicevox_onnxruntime-linux-x64-1.23.2.tgz \
+              | tar xz -C models/
+          fi
+          ls -la models/
+
+      - name: generate episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          cd pipeline
+          python run_daily.py ${{ inputs.date != '' && format('--date {0}', inputs.date) || '' }}
+
+      - name: commit script to main
+        run: |
+          git config user.name "radio-bot"
+          git config user.email "radio-bot@users.noreply.github.com"
+          git add episodes/ episodes.json
+          git diff --cached --quiet || git commit -m "episode $(date -u +%F)"
+          git push
+
+      - name: publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

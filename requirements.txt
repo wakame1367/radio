@@ -1,0 +1,10 @@
+# pipeline deps (CI installs these + a TTS engine)
+feedparser>=6.0.11
+requests>=2.32
+google-genai>=1.0
+numpy>=1.26
+lameenc>=1.7
+miniaudio>=1.60
+# TTS (pick one)
+# kokoro: pip install kokoro-onnx
+# voicevox: pip install https://github.com/VOICEVOX/voicevox_core/releases/download/0.17.1/voicevox_core-0.17.1-cp310-abi3-manylinux_2_34_x86_64.whl

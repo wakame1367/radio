@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>声の試聴 — radio</title>
+<style>
+  body { font-family: system-ui, sans-serif; background:#14161d; color:#e8e8ee; max-width:720px; margin:0 auto; padding:24px; }
+  h1 { font-size:1.3rem; }
+  .card { background:#1e2230; border-radius:12px; padding:14px 16px; margin:12px 0; }
+  .voice { font-weight:600; margin-bottom:6px; }
+  .meta { font-size:.8rem; color:#9aa0b4; margin-bottom:8px; }
+  audio { width:100%; }
+  .note { font-size:.85rem; color:#9aa0b4; }
+</style>
+</head>
+<body>
+<h1>声の試聴サンプル</h1>
+<p class="note">すべて同じニュース原稿を読んでいます。ラジオとして毎朝聴くことを想像しながら、疲れない・不快感のない声を選んでください。</p>
+<div id="list">manifest.json を読み込み中…</div>
+<script>
+fetch('manifest.json').then(r => r.json()).then(items => {
+  const el = document.getElementById('list');
+  el.innerHTML = '';
+  for (const it of items) {
+    const d = document.createElement('div');
+    d.className = 'card';
+    d.innerHTML = `<div class="voice">${it.voice}</div>
+      <div class="meta">${it.engine} / ${it.credit}</div>
+      <audio controls preload="none" src="${it.file}"></audio>`;
+    el.appendChild(d);
+  }
+});
+</script>
+</body>
+</html>
