@@ -134,15 +134,19 @@ def build_episode(date: str, candidates: list[dict], mode: str = "auto") -> dict
         style=st["episode"]["style"],
         candidates=json.dumps(candidates, ensure_ascii=False, indent=1),
     )
-    resp = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.4,
-        ),
-    )
-    body = json.loads(resp.text)
+    try:
+        resp = client.models.generate_content(
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=0.4,
+            ),
+        )
+        body = json.loads(resp.text)
+    except Exception as e:
+        log(f"Gemini 失敗 ({type(e).__name__}: {e}) → 定型台本にフォールバック")
+        return build_episode_template(date, candidates, st)
 
     ep = {
         "format": "radio/episode-1",
