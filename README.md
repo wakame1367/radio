@@ -26,6 +26,7 @@ episodes.json 回の一覧
 - GitHub Actions が毎朝 JST で収集→台本→音声→公開まで自動実行
 - 公開は `gh-pages` ブランチ経由の GitHub Pages
 - 音声は main にはコミットしない (直近 N 日分のみ配信)
+- **台本生成は独立サービスとして切り離し**: `episodes/<日付>.json` を main に置くだけが契約。LLM未導入時は定型台本モードで自動放送(AGENTS.md「台本生成の接続」参照)
 
 ## 開発メモ
 

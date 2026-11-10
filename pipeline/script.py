@@ -48,15 +48,87 @@ PROMPT = """あなたは朝のニュースラジオ番組の放送作家です�
 """
 
 
-def build_episode(date: str, candidates: list[dict]) -> dict:
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        sys.exit("GEMINI_API_KEY is not set")
+def jp_ratio(s: str) -> float:
+    jp = sum(1 for ch in s if "぀" <= ch <= "ヿ" or "一" <= ch <= "鿿")
+    return jp / max(len(s.strip()), 1)
+
+
+def sayify(s: str) -> str:
+    """字幕/タイトルを読み上げ向きに軽く整形(LLMなし時の近似)。"""
+    import re
+    s = re.sub(r"https?://\S+", "", s)
+    s = re.sub(r"[【】\[\]《》〈〉『』「」\"'｜|]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def first_sentence(s: str, limit: int = 90) -> str:
+    import re
+    if not s:
+        return ""
+    m = re.split(r"(?<=[。！？!?])", s, maxsplit=1)
+    head = m[0].strip()
+    if len(head) > limit:
+        head = head[:limit].rstrip("、，,") + "…"
+    return head
+
+
+def build_episode_template(date: str, candidates: list[dict], st: dict) -> dict:
+    """LLMなしの定型台本: 日本語多め候補をソース分散しながら上位N件。"""
+    from urllib.parse import urlparse
+
+    n = st["episode"]["news_count"]
+    pool = sorted(candidates, key=lambda c: -jp_ratio(c["title"]))
+    picked, per_src = [], {}
+    for c in pool:
+        if len(picked) >= n:
+            break
+        if jp_ratio(c["title"]) < 0.35:
+            continue
+        if per_src.get(c["source"], 0) >= 2:
+            continue
+        per_src[c["source"]] = per_src.get(c["source"], 0) + 1
+        picked.append(c)
+
+    news = []
+    for i, c in enumerate(picked, 1):
+        title = c["title"].strip()
+        say_title = sayify(title)
+        lines = [{"say": f"{i}件目。{say_title}。", "show": title}]
+        if c.get("summary"):
+            s = first_sentence(c["summary"])
+            if s and s != title:
+                lines.append({"say": sayify(s), "show": s})
+        news.append({
+            "label": title[:16] + ("…" if len(title) > 16 else ""),
+            "points": [c["source"], urlparse(c["url"]).netloc],
+            "lines": lines,
+            "url": c["url"],
+            "link": {"url": c["url"], "title": title,
+                     "site": urlparse(c["url"]).netloc},
+        })
+
+    return {
+        "format": "radio/episode-1",
+        "date": date,
+        "title": f"{date[5:7]}月{date[8:10]}日のネットニュース",
+        "opening": [{"say": f"おはようございます。{int(date[5:7])}月{int(date[8:10])}日の朝のニュースをお届けします。今日は{len(news)}件の話題です。",
+                     "show": f"おはようございます。{int(date[5:7])}月{int(date[8:10])}日の朝のニュースをお届けします。今日は{len(news)}件の話題です。"}],
+        "news": news,
+        "closing": [{"say": "以上、今朝のニュースでした。", "show": "以上、今朝のニュースでした。"}],
+    }
+
+
+def build_episode(date: str, candidates: list[dict], mode: str = "auto") -> dict:
+    st = load_station()
+    use_gemini = mode == "gemini" or (mode == "auto" and os.environ.get("GEMINI_API_KEY"))
+    if not use_gemini:
+        log(f"定型台本モード (mode={mode})")
+        return build_episode_template(date, candidates, st)
     from google import genai
     from google.genai import types
 
-    st = load_station()
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     prompt = PROMPT.format(
         news_count=st["episode"]["news_count"],
         style=st["episode"]["style"],
@@ -109,11 +181,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", default=today_jst())
     ap.add_argument("--candidates", required=True, help="candidates JSON file")
+    ap.add_argument("--mode", default="auto", choices=["auto", "template", "gemini"])
     ap.add_argument("--out", help="default episodes/<date>.json")
     args = ap.parse_args()
 
     candidates = json.load(open(args.candidates, encoding="utf-8"))
-    ep = build_episode(args.date, candidates)
+    ep = build_episode(args.date, candidates, mode=args.mode)
     n_lines = sum(1 for _ in all_lines(ep))
     log(f"script: {len(ep['news'])} news, {n_lines} lines")
 

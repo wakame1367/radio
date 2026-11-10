@@ -5,9 +5,28 @@
 ## 毎朝の流れ (pipeline/run_daily.py)
 
 1. `collect.py` — `station.json` の `sources` からRSS等を集めて候補JSON化
-2. `script.py` — Gemini(`GEMINI_API_KEY`)が候補からN件選び台本 `episodes/<日付>.json` を生成
+2. `script.py` — 台本 `episodes/<日付>.json` を生成 (下記「台本生成の接続」参照)
 3. `assemble.py` — `station.json` の `voice` 設定で行ごとにTTS→連結、`lines_timed`/`segments` を台本に書き戻し、BGMをダッキングして `audio/<日付>.mp3` 生成
 4. `publish.py` — `episodes.json` 更新、`dist/` を構築(site + 台本 + 直近 `keep_days` 日分の音声)
+
+## 台本生成の接続 (サービス化の契約)
+
+**契約は1つだけ: `episodes/<YYYY-MM-DD>.json` が main ブランチにあれば、その日に放送される。**
+
+日次ワークフローは実行時にこのファイルを確認し:
+- **ある** → 外部サービスが生成済みとみなし、音声化+公開のみ行う (`--script external` 相当)
+- **ない** → 内蔵生成にフォールバック (`GEMINI_API_KEY` あればGemini、なければ定型台本)
+
+つまり台本生成サービスは「このJSONを main に置く」ことだけを実装すればよく、置き方は自由:
+
+- 同リポジトリへ直接 push (bot PAT / GitHub App)
+- PRを立ててマージ (人間レビューを挟める)
+- 別リポジトリ/外部サービスから `workflow_dispatch` で連携
+- 手動でファイルを置く (試作期の半手動運用)
+
+逆に「台本なしでも毎日鳴る」ため、サービスが止まっても放送は途切れない(品質は下がる)。
+
+`run_daily.py --script`: `auto`(既定) / `template` / `gemini` / `external` / `none`(publishのみ)
 
 ## 台本の形 (episodes/<日付>.json, format: radio/episode-1)
 
