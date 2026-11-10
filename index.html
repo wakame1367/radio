@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>radio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="station">
+    <span id="st-name">…</span>
+    <span id="st-tag" class="dim"></span>
+  </div>
+  <select id="ep-select" aria-label="回を選ぶ"></select>
+</header>
+
+<main>
+  <section id="ep-head">
+    <h1 id="ep-title">—</h1>
+    <div id="ep-date" class="dim"></div>
+  </section>
+
+  <section id="player">
+    <button id="btn-play" class="big" aria-label="再生">▶</button>
+    <div class="track">
+      <div id="now" class="now">—</div>
+      <input type="range" id="seek" min="0" max="1000" value="0">
+      <div class="times"><span id="t-cur">0:00</span><span id="t-total">0:00</span></div>
+    </div>
+    <div class="ctrl">
+      <button id="btn-back" title="15秒戻る">⟲15</button>
+      <button id="btn-fwd" title="15秒進む">15⟳</button>
+      <select id="speed" title="再生速度">
+        <option>0.75</option><option selected>1.0</option>
+        <option>1.25</option><option>1.5</option><option>1.75</option><option>2.0</option>
+      </select>
+    </div>
+  </section>
+
+  <nav id="chapters" aria-label="見出し"></nav>
+  <section id="body"></section>
+
+  <audio id="audio" preload="metadata"></audio>
+</main>
+
+<footer id="credits" class="dim"></footer>
+<script src="app.js"></script>
+</body>
+</html>
