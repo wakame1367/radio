@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-12",
+  "title": "11月12日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月12日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月12日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "インシデント調査報告書チェックリ…",
+      "points": [
+        "はてなブックマーク 総合",
+        "www.jpcert.or.jp"
+      ],
+      "lines": [
+        {
+          "say": "1件目。インシデント調査報告書チェックリスト公開のお知らせ。",
+          "show": "インシデント調査報告書チェックリスト公開のお知らせ"
+        },
+        {
+          "say": "一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下 JPCERT/CC ）は、本日 インシデント調査報告書チェックリスト を公開いたしまし…",
+          "show": "一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしまし…"
+        }
+      ],
+      "url": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+      "link": {
+        "url": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+        "title": "インシデント調査報告書チェックリスト公開のお知らせ",
+        "site": "www.jpcert.or.jp"
+      }
+    },
+    {
+      "label": "低所得者",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。低所得者。",
+          "show": "低所得者"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "低所得者",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "吉岡里帆",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "3件目。吉岡里帆。",
+          "show": "吉岡里帆"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "吉岡里帆",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "サイバートラック生産終了について…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "4件目。サイバートラック生産終了についてイーロン・マスクが 売れ行きは好調だが利益の大きいサイバーキャブを優先した と反論。",
+          "show": "サイバートラック生産終了についてイーロン・マスクが「売れ行きは好調だが利益の大きいサイバーキャブを優先した」と反論"
+        },
+        {
+          "say": "テスラのイーロン・マスクCEOが電動ピックアップトラック Cybertruck(サイバートラック) の生産を2027年半ばで終了することを明らかにしました。",
+          "show": "テスラのイーロン・マスクCEOが電動ピックアップトラック「Cybertruck(サイバートラック)」の生産を2027年半ばで終了することを明らかにしました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261111-elon-musk-cybertruck/",
+      "link": {
+        "url": "https://gigazine.net/news/20261111-elon-musk-cybertruck/",
+        "title": "サイバートラック生産終了についてイーロン・マスクが「売れ行きは好調だが利益の大きいサイバーキャブを優先した」と反論",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "イギリスでタコが通常の13倍ほど…",
+      "points": [
+        "はてなブックマーク 総合",
+        "togetter.com"
+      ],
+      "lines": [
+        {
+          "say": "5件目。イギリスでタコが通常の13倍ほど大発生してみんな困ってるそうだけど、日本人を放てばあっという間に食べ尽くしてしまいそう。",
+          "show": "イギリスでタコが通常の13倍ほど大発生してみんな困ってるそうだけど、日本人を放てばあっという間に食べ尽くしてしまいそう"
+        },
+        {
+          "say": "ひきこうもり @Hikikomori_ イギリスでタコが通常の13倍になる大発生をしてみんな困ってるそうだけど、天敵の日本人を放てばあっという間にみんなたこ焼きにして食べつくしそう…",
+          "show": "ひきこうもり @Hikikomori_ イギリスでタコが通常の13倍になる大発生をしてみんな困ってるそうだけど、天敵の日本人を放てばあっという間にみんなたこ焼きにして食べつくしそう…"
+        }
+      ],
+      "url": "https://togetter.com/li/2769385",
+      "link": {
+        "url": "https://togetter.com/li/2769385",
+        "title": "イギリスでタコが通常の13倍ほど大発生してみんな困ってるそうだけど、日本人を放てばあっという間に食べ尽くしてしまいそう",
+        "site": "togetter.com"
+      }
+    },
+    {
+      "label": "お客様の前に立つフロント人材にな…",
+      "points": [
+        "はてなブックマーク IT",
+        "future-architect.github.io"
+      ],
+      "lines": [
+        {
+          "say": "6件目。お客様の前に立つフロント人材になるために、技術以外の最小構成 フューチャー技術ブログ。",
+          "show": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ"
+        },
+        {
+          "say": "秋のブログ週間2026 の記事です。",
+          "show": "秋のブログ週間2026 の記事です。"
+        }
+      ],
+      "url": "https://future-architect.github.io/articles/20261111a/",
+      "link": {
+        "url": "https://future-architect.github.io/articles/20261111a/",
+        "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
+        "site": "future-architect.github.io"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.699,
+      "show": "おはようございます。11月12日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.449,
+      "end": 12.11,
+      "show": "インシデント調査報告書チェックリスト公開のお知らせ",
+      "part": "news:0"
+    },
+    {
+      "start": 12.46,
+      "end": 30.348,
+      "show": "一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしまし…",
+      "part": "news:0"
+    },
+    {
+      "start": 31.098,
+      "end": 32.997,
+      "show": "低所得者",
+      "part": "news:1"
+    },
+    {
+      "start": 33.747,
+      "end": 35.912,
+      "show": "吉岡里帆",
+      "part": "news:2"
+    },
+    {
+      "start": 36.662,
+      "end": 45.942,
+      "show": "サイバートラック生産終了についてイーロン・マスクが「売れ行きは好調だが利益の大きいサイバーキャブを優先した」と反論",
+      "part": "news:3"
+    },
+    {
+      "start": 46.292,
+      "end": 59.145,
+      "show": "テスラのイーロン・マスクCEOが電動ピックアップトラック「Cybertruck(サイバートラック)」の生産を2027年半ばで終了することを明らかにしました。",
+      "part": "news:3"
+    },
+    {
+      "start": 59.895,
+      "end": 69.463,
+      "show": "イギリスでタコが通常の13倍ほど大発生してみんな困ってるそうだけど、日本人を放てばあっという間に食べ尽くしてしまいそう",
+      "part": "news:4"
+    },
+    {
+      "start": 69.813,
+      "end": 84.256,
+      "show": "ひきこうもり @Hikikomori_ イギリスでタコが通常の13倍になる大発生をしてみんな困ってるそうだけど、天敵の日本人を放てばあっという間にみんなたこ焼きにして食べつくしそう…",
+      "part": "news:4"
+    },
+    {
+      "start": 85.006,
+      "end": 93.091,
+      "show": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
+      "part": "news:5"
+    },
+    {
+      "start": 93.441,
+      "end": 96.716,
+      "show": "秋のブログ週間2026 の記事です。",
+      "part": "news:5"
+    },
+    {
+      "start": 97.616,
+      "end": 99.717,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.449
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.449,
+      "end": 31.098
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 31.098,
+      "end": 33.747
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 33.747,
+      "end": 36.662
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 36.662,
+      "end": 59.895
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 59.895,
+      "end": 85.006
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 85.006,
+      "end": 97.616
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 97.616,
+      "end": 99.717
+    }
+  ],
+  "seconds": 102.7,
+  "made_at": "2026-11-12T02:21:41.859660+00:00"
+}
