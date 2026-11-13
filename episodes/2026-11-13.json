@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-13",
+  "title": "11月13日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月13日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月13日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "インシデント調査報告書チェックリ…",
+      "points": [
+        "はてなブックマーク IT",
+        "jpcertcc.github.io"
+      ],
+      "lines": [
+        {
+          "say": "1件目。インシデント調査報告書チェックリスト。",
+          "show": "インシデント調査報告書チェックリスト"
+        },
+        {
+          "say": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。",
+          "show": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。"
+        }
+      ],
+      "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+      "link": {
+        "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+        "title": "インシデント調査報告書チェックリスト",
+        "site": "jpcertcc.github.io"
+      }
+    },
+    {
+      "label": "皇室典範",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。皇室典範。",
+          "show": "皇室典範"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "皇室典範",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "ジャパン・プロフェッショナル・バ…",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "3件目。ジャパン・プロフェッショナル・バスケットボールリーグ。",
+          "show": "ジャパン・プロフェッショナル・バスケットボールリーグ"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "ジャパン・プロフェッショナル・バスケットボールリーグ",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "レジスタを擁護してる中年男性って…",
+      "points": [
+        "はてなブックマーク 総合",
+        "anond.hatelabo.jp"
+      ],
+      "lines": [
+        {
+          "say": "4件目。レジスタを擁護してる中年男性って自分の娘や息子の彼女がバイト先でおぢアタックされても嫌じゃないの？。",
+          "show": "レジスタを擁護してる中年男性って自分の娘や息子の彼女がバイト先でおぢアタックされても嫌じゃないの？"
+        },
+        {
+          "say": "産休中の公務員です。",
+          "show": "産休中の公務員です。"
+        }
+      ],
+      "url": "https://anond.hatelabo.jp/20261112182831",
+      "link": {
+        "url": "https://anond.hatelabo.jp/20261112182831",
+        "title": "レジスタを擁護してる中年男性って自分の娘や息子の彼女がバイト先でおぢアタックされても嫌じゃないの？",
+        "site": "anond.hatelabo.jp"
+      }
+    },
+    {
+      "label": "フェミニスト「評判いいからペルソ…",
+      "points": [
+        "はてなブックマーク 総合",
+        "posfie.com"
+      ],
+      "lines": [
+        {
+          "say": "5件目。フェミニスト 評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そのものの話があって呆然。",
+          "show": "フェミニスト「評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そのものの話があって呆然」"
+        },
+        {
+          "say": "大葉 @ooba__ わかりすぎ。",
+          "show": "大葉 @ooba__ わかりすぎ。"
+        }
+      ],
+      "url": "https://posfie.com/@DamDam347/p/TVzu0HJ",
+      "link": {
+        "url": "https://posfie.com/@DamDam347/p/TVzu0HJ",
+        "title": "フェミニスト「評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そのものの話があって呆然」",
+        "site": "posfie.com"
+      }
+    },
+    {
+      "label": "データセンターがスプリンクラーの…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "6件目。データセンターがスプリンクラーの 誤作動 で水浸しになりかけた事例。",
+          "show": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例"
+        },
+        {
+          "say": "企業が持つあらゆるデータやシステムがデジタル化され、AIの活用が進む昨今においては、膨大なデータを保存しているデータセンターが企業の核となっています。",
+          "show": "企業が持つあらゆるデータやシステムがデジタル化され、AIの活用が進む昨今においては、膨大なデータを保存しているデータセンターが企業の核となっています。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
+      "link": {
+        "url": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
+        "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
+        "site": "gigazine.net"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.784,
+      "show": "おはようございます。11月13日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.534,
+      "end": 11.139,
+      "show": "インシデント調査報告書チェックリスト",
+      "part": "news:0"
+    },
+    {
+      "start": 11.489,
+      "end": 22.721,
+      "show": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。",
+      "part": "news:0"
+    },
+    {
+      "start": 23.471,
+      "end": 25.434,
+      "show": "皇室典範",
+      "part": "news:1"
+    },
+    {
+      "start": 26.184,
+      "end": 30.835,
+      "show": "ジャパン・プロフェッショナル・バスケットボールリーグ",
+      "part": "news:2"
+    },
+    {
+      "start": 31.585,
+      "end": 39.798,
+      "show": "レジスタを擁護してる中年男性って自分の娘や息子の彼女がバイト先でおぢアタックされても嫌じゃないの？",
+      "part": "news:3"
+    },
+    {
+      "start": 40.148,
+      "end": 42.057,
+      "show": "産休中の公務員です。",
+      "part": "news:3"
+    },
+    {
+      "start": 42.807,
+      "end": 51.65,
+      "show": "フェミニスト「評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そのものの話があって呆然」",
+      "part": "news:4"
+    },
+    {
+      "start": 52.0,
+      "end": 55.232,
+      "show": "大葉 @ooba__ わかりすぎ。",
+      "part": "news:4"
+    },
+    {
+      "start": 55.982,
+      "end": 62.35,
+      "show": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
+      "part": "news:5"
+    },
+    {
+      "start": 62.7,
+      "end": 73.548,
+      "show": "企業が持つあらゆるデータやシステムがデジタル化され、AIの活用が進む昨今においては、膨大なデータを保存しているデータセンターが企業の核となっています。",
+      "part": "news:5"
+    },
+    {
+      "start": 74.448,
+      "end": 76.549,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.534
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.534,
+      "end": 23.471
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 23.471,
+      "end": 26.184
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 26.184,
+      "end": 31.585
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 31.585,
+      "end": 42.807
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 42.807,
+      "end": 55.982
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 55.982,
+      "end": 74.448
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 74.448,
+      "end": 76.549
+    }
+  ],
+  "seconds": 79.5,
+  "made_at": "2026-11-13T02:00:13.900245+00:00"
+}
