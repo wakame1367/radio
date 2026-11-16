@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-16",
+  "title": "11月16日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月16日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月16日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "橋本帆乃香",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "1件目。橋本帆乃香。",
+          "show": "橋本帆乃香"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "橋本帆乃香",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "大気汚染",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。大気汚染。",
+          "show": "大気汚染"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "大気汚染",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "フロントエンドのフレームワークを…",
+      "points": [
+        "Zenn",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "3件目。フロントエンドのフレームワークを、安全に段階的に入れ替える。",
+          "show": "フロントエンドのフレームワークを、安全に段階的に入れ替える"
+        },
+        {
+          "say": "この記事の想定読者 React などで書いた画面を、別の framework へ少しずつ移したいエンジニア 移行の計画を承認する立場で、 作業がどこまで安全で、途中で止めたらどうな…",
+          "show": "この記事の想定読者 React などで書いた画面を、別の framework へ少しずつ移したいエンジニア 移行の計画を承認する立場で、「作業がどこまで安全で、途中で止めたらどうな…"
+        }
+      ],
+      "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
+      "link": {
+        "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
+        "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
+        "site": "zenn.dev"
+      }
+    },
+    {
+      "label": "筒抜けの国家中枢 安全保障脅かす…",
+      "points": [
+        "はてなブックマーク 総合",
+        "vdata.nikkei.com"
+      ],
+      "lines": [
+        {
+          "say": "4件目。筒抜けの国家中枢 安全保障脅かすスマホ位置情報。",
+          "show": "筒抜けの国家中枢 安全保障脅かすスマホ位置情報"
+        },
+        {
+          "say": "日本国内のスマートフォンの位置情報が海外で売買されている。",
+          "show": "日本国内のスマートフォンの位置情報が海外で売買されている。"
+        }
+      ],
+      "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks/",
+      "link": {
+        "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks/",
+        "title": "筒抜けの国家中枢 安全保障脅かすスマホ位置情報",
+        "site": "vdata.nikkei.com"
+      }
+    },
+    {
+      "label": "自転車専用レーンを守るための物を…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "5件目。自転車専用レーンを守るための物を勝手に設置する ゲリラ自転車レーン が恒久化した事例。",
+          "show": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例"
+        },
+        {
+          "say": "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました。",
+          "show": "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
+      "link": {
+        "url": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
+        "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "マネージャーに何を求めますか｜柳…",
+      "points": [
+        "はてなブックマーク 総合",
+        "note.com"
+      ],
+      "lines": [
+        {
+          "say": "6件目。マネージャーに何を求めますか 柳川慶太。",
+          "show": "マネージャーに何を求めますか｜柳川慶太"
+        },
+        {
+          "say": "BASE株式会社 執行役員の柳川です。",
+          "show": "BASE株式会社 執行役員の柳川です。"
+        }
+      ],
+      "url": "https://note.com/gimupop/n/n4a90c122ff87",
+      "link": {
+        "url": "https://note.com/gimupop/n/n4a90c122ff87",
+        "title": "マネージャーに何を求めますか｜柳川慶太",
+        "site": "note.com"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.795,
+      "show": "おはようございます。11月16日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.545,
+      "end": 9.454,
+      "show": "橋本帆乃香",
+      "part": "news:0"
+    },
+    {
+      "start": 10.204,
+      "end": 12.007,
+      "show": "大気汚染",
+      "part": "news:1"
+    },
+    {
+      "start": 12.757,
+      "end": 18.133,
+      "show": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
+      "part": "news:2"
+    },
+    {
+      "start": 18.483,
+      "end": 35.699,
+      "show": "この記事の想定読者 React などで書いた画面を、別の framework へ少しずつ移したいエンジニア 移行の計画を承認する立場で、「作業がどこまで安全で、途中で止めたらどうな…",
+      "part": "news:2"
+    },
+    {
+      "start": 36.449,
+      "end": 41.931,
+      "show": "筒抜けの国家中枢 安全保障脅かすスマホ位置情報",
+      "part": "news:3"
+    },
+    {
+      "start": 42.281,
+      "end": 46.719,
+      "show": "日本国内のスマートフォンの位置情報が海外で売買されている。",
+      "part": "news:3"
+    },
+    {
+      "start": 47.469,
+      "end": 55.394,
+      "show": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
+      "part": "news:4"
+    },
+    {
+      "start": 55.744,
+      "end": 65.888,
+      "show": "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました。",
+      "part": "news:4"
+    },
+    {
+      "start": 66.638,
+      "end": 71.022,
+      "show": "マネージャーに何を求めますか｜柳川慶太",
+      "part": "news:5"
+    },
+    {
+      "start": 71.372,
+      "end": 75.596,
+      "show": "BASE株式会社 執行役員の柳川です。",
+      "part": "news:5"
+    },
+    {
+      "start": 76.496,
+      "end": 78.597,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.545
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.545,
+      "end": 10.204
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 10.204,
+      "end": 12.757
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 12.757,
+      "end": 36.449
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 36.449,
+      "end": 47.469
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 47.469,
+      "end": 66.638
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 66.638,
+      "end": 76.496
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 76.496,
+      "end": 78.597
+    }
+  ],
+  "seconds": 81.6,
+  "made_at": "2026-11-16T01:13:40.189296+00:00"
+}
