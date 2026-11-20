@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-20",
+  "title": "11月20日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月20日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月20日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "百条委員会",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "1件目。百条委員会。",
+          "show": "百条委員会"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "百条委員会",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "コ・ギョンピョ",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。コ・ギョンピョ。",
+          "show": "コ・ギョンピョ"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "コ・ギョンピョ",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "ログの種別を整理して、何をどこま…",
+      "points": [
+        "Zenn",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "3件目。ログの種別を整理して、何をどこまで残すか決めた話。",
+          "show": "ログの種別を整理して、何をどこまで残すか決めた話"
+        },
+        {
+          "say": "こんにちは。",
+          "show": "こんにちは。"
+        }
+      ],
+      "url": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
+      "link": {
+        "url": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
+        "title": "ログの種別を整理して、何をどこまで残すか決めた話",
+        "site": "zenn.dev"
+      }
+    },
+    {
+      "label": "ヨドバシカメラで家電を購入したら…",
+      "points": [
+        "はてなブックマーク 総合",
+        "togetter.com"
+      ],
+      "lines": [
+        {
+          "say": "4件目。ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・インターネット回線・ウォーターサーバーの営業が20分間続いた。",
+          "show": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・インターネット回線・ウォーターサーバーの営業が20分間続いた"
+        },
+        {
+          "say": "草（無） @kusa0530 ヨドバシカメラで家電を購入した。",
+          "show": "草（無） @kusa0530 ヨドバシカメラで家電を購入した。"
+        }
+      ],
+      "url": "https://togetter.com/li/2772543",
+      "link": {
+        "url": "https://togetter.com/li/2772543",
+        "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・インターネット回線・ウォーターサーバーの営業が20分間続いた",
+        "site": "togetter.com"
+      }
+    },
+    {
+      "label": "後入れゴマペーストと追いゴマでゴ…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "5件目。後入れゴマペーストと追いゴマでゴマ風味が限界突破な サッポロ一番 ゴママニア 濃厚胡麻担担麺 試食レビュー。",
+          "show": "後入れゴマペーストと追いゴマでゴマ風味が限界突破な「サッポロ一番 ゴママニア 濃厚胡麻担担麺」試食レビュー"
+        },
+        {
+          "say": "サンヨー食品のカップ麺ブランド サッポロ一番 に、 マニアの素 を加えることでごまの風味が引き立つという サッポロ一番 ゴママニア 濃厚胡麻担担麺 が2026年11月16日(月)か…",
+          "show": "サンヨー食品のカップ麺ブランド「サッポロ一番」に、「マニアの素」を加えることでごまの風味が引き立つという「サッポロ一番 ゴママニア 濃厚胡麻担担麺」が2026年11月16日(月)か…"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261119-sanyo-sesame-tantanmen/",
+      "link": {
+        "url": "https://gigazine.net/news/20261119-sanyo-sesame-tantanmen/",
+        "title": "後入れゴマペーストと追いゴマでゴマ風味が限界突破な「サッポロ一番 ゴママニア 濃厚胡麻担担麺」試食レビュー",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "NVIDIAがジェンスン・フアン…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "6件目。NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる。",
+          "show": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる"
+        },
+        {
+          "say": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。",
+          "show": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
+      "link": {
+        "url": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
+        "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
+        "site": "gigazine.net"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.453,
+      "show": "おはようございます。11月20日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.203,
+      "end": 9.55,
+      "show": "百条委員会",
+      "part": "news:0"
+    },
+    {
+      "start": 10.3,
+      "end": 12.647,
+      "show": "コ・ギョンピョ",
+      "part": "news:1"
+    },
+    {
+      "start": 13.397,
+      "end": 18.485,
+      "show": "ログの種別を整理して、何をどこまで残すか決めた話",
+      "part": "news:2"
+    },
+    {
+      "start": 18.835,
+      "end": 19.752,
+      "show": "こんにちは。",
+      "part": "news:2"
+    },
+    {
+      "start": 20.502,
+      "end": 32.95,
+      "show": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・インターネット回線・ウォーターサーバーの営業が20分間続いた",
+      "part": "news:3"
+    },
+    {
+      "start": 33.3,
+      "end": 39.743,
+      "show": "草（無） @kusa0530 ヨドバシカメラで家電を購入した。",
+      "part": "news:3"
+    },
+    {
+      "start": 40.493,
+      "end": 50.157,
+      "show": "後入れゴマペーストと追いゴマでゴマ風味が限界突破な「サッポロ一番 ゴママニア 濃厚胡麻担担麺」試食レビュー",
+      "part": "news:4"
+    },
+    {
+      "start": 50.507,
+      "end": 66.837,
+      "show": "サンヨー食品のカップ麺ブランド「サッポロ一番」に、「マニアの素」を加えることでごまの風味が引き立つという「サッポロ一番 ゴママニア 濃厚胡麻担担麺」が2026年11月16日(月)か…",
+      "part": "news:4"
+    },
+    {
+      "start": 67.587,
+      "end": 80.121,
+      "show": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
+      "part": "news:5"
+    },
+    {
+      "start": 80.471,
+      "end": 86.22,
+      "show": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。",
+      "part": "news:5"
+    },
+    {
+      "start": 87.12,
+      "end": 89.221,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.203
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.203,
+      "end": 10.3
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 10.3,
+      "end": 13.397
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 13.397,
+      "end": 20.502
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 20.502,
+      "end": 40.493
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 40.493,
+      "end": 67.587
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 67.587,
+      "end": 87.12
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 87.12,
+      "end": 89.221
+    }
+  ],
+  "seconds": 92.2,
+  "made_at": "2026-11-20T02:28:45.037907+00:00"
+}
