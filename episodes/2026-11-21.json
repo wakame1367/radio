@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-21",
+  "title": "11月21日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月21日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月21日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "黒柳徹子",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "1件目。黒柳徹子。",
+          "show": "黒柳徹子"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "黒柳徹子",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "吉田麻也",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。吉田麻也。",
+          "show": "吉田麻也"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "吉田麻也",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "退役したジェットエンジンがAIデ…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "3件目。退役したジェットエンジンがAIデータセンターの動力源として使われている。",
+          "show": "退役したジェットエンジンがAIデータセンターの動力源として使われている"
+        },
+        {
+          "say": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。",
+          "show": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+      "link": {
+        "url": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+        "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "メモリ圧縮を使えばCPUの処理能…",
+      "points": [
+        "はてなブックマーク IT",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "4件目。メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる。",
+          "show": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる"
+        },
+        {
+          "say": "ウェブブラウザで大量のタブを開いたり複数のアプリを同時に動かしたりすると、PCのメモリ(RAM)が不足して動作が遅くなることがあります。",
+          "show": "ウェブブラウザで大量のタブを開いたり複数のアプリを同時に動かしたりすると、PCのメモリ(RAM)が不足して動作が遅くなることがあります。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261120-memory-compress/",
+      "link": {
+        "url": "https://gigazine.net/news/20261120-memory-compress/",
+        "title": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "SpaceXは圏外エリアを撲滅し…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "5件目。SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る。",
+          "show": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る"
+        },
+        {
+          "say": "衛星インターネットサービスのStarlinkを提供する宇宙開発企業・SpaceXのイーロン・マスクCEOが、 地球上のどこでも通信できるようにする計画がある と語りました。",
+          "show": "衛星インターネットサービスのStarlinkを提供する宇宙開発企業・SpaceXのイーロン・マスクCEOが、「地球上のどこでも通信できるようにする計画がある」と語りました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/",
+      "link": {
+        "url": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/",
+        "title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "ナオキマン氏の起用はさすがにタ…",
+      "points": [
+        "はてなブックマーク 総合",
+        "bunkaonline.jp"
+      ],
+      "lines": [
+        {
+          "say": "6件目。ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない：ロマン優光連載418。",
+          "show": "ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない：ロマン優光連載418"
+        },
+        {
+          "say": "418回 ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない 人気都市伝説系YouTuberのナオキマン氏を政府が安全保障に関する広報に起用したことが多く…",
+          "show": "418回 ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない 人気都市伝説系YouTuberのナオキマン氏を政府が安全保障に関する広報に起用したことが多く…"
+        }
+      ],
+      "url": "https://bunkaonline.jp/archives/9308",
+      "link": {
+        "url": "https://bunkaonline.jp/archives/9308",
+        "title": "ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない：ロマン優光連載418",
+        "site": "bunkaonline.jp"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.955,
+      "show": "おはようございます。11月21日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.705,
+      "end": 9.966,
+      "show": "黒柳徹子",
+      "part": "news:0"
+    },
+    {
+      "start": 10.716,
+      "end": 12.465,
+      "show": "吉田麻也",
+      "part": "news:1"
+    },
+    {
+      "start": 13.215,
+      "end": 19.146,
+      "show": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+      "part": "news:2"
+    },
+    {
+      "start": 19.496,
+      "end": 28.552,
+      "show": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。",
+      "part": "news:2"
+    },
+    {
+      "start": 29.302,
+      "end": 37.302,
+      "show": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる",
+      "part": "news:3"
+    },
+    {
+      "start": 37.652,
+      "end": 48.265,
+      "show": "ウェブブラウザで大量のタブを開いたり複数のアプリを同時に動かしたりすると、PCのメモリ(RAM)が不足して動作が遅くなることがあります。",
+      "part": "news:3"
+    },
+    {
+      "start": 49.015,
+      "end": 60.055,
+      "show": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
+      "part": "news:4"
+    },
+    {
+      "start": 60.405,
+      "end": 74.283,
+      "show": "衛星インターネットサービスのStarlinkを提供する宇宙開発企業・SpaceXのイーロン・マスクCEOが、「地球上のどこでも通信できるようにする計画がある」と語りました。",
+      "part": "news:4"
+    },
+    {
+      "start": 75.033,
+      "end": 84.697,
+      "show": "ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない：ロマン優光連載418",
+      "part": "news:5"
+    },
+    {
+      "start": 85.047,
+      "end": 99.649,
+      "show": "418回 ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない 人気都市伝説系YouTuberのナオキマン氏を政府が安全保障に関する広報に起用したことが多く…",
+      "part": "news:5"
+    },
+    {
+      "start": 100.549,
+      "end": 102.651,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.705
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.705,
+      "end": 10.716
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 10.716,
+      "end": 13.215
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 13.215,
+      "end": 29.302
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 29.302,
+      "end": 49.015
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 49.015,
+      "end": 75.033
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 75.033,
+      "end": 100.549
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 100.549,
+      "end": 102.651
+    }
+  ],
+  "seconds": 105.7,
+  "made_at": "2026-11-21T02:38:21.507471+00:00"
+}
