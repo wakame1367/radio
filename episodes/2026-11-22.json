@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-22",
+  "title": "11月22日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月22日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月22日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "ソフトウェアファクトリーとコード…",
+      "points": [
+        "はてなブックマーク IT",
+        "kosui.me"
+      ],
+      "lines": [
+        {
+          "say": "1件目。ソフトウェアファクトリーとコード設計と顧客価値。",
+          "show": "ソフトウェアファクトリーとコード設計と顧客価値"
+        },
+        {
+          "say": "横軸を時間とし、上段に人、下段にエージェントを置いた図です。",
+          "show": "横軸を時間とし、上段に人、下段にエージェントを置いた図です。"
+        }
+      ],
+      "url": "https://kosui.me/posts/2026/11/15/code-design-after-agents",
+      "link": {
+        "url": "https://kosui.me/posts/2026/11/15/code-design-after-agents",
+        "title": "ソフトウェアファクトリーとコード設計と顧客価値",
+        "site": "kosui.me"
+      }
+    },
+    {
+      "label": "バーチャル高校野球",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。バーチャル高校野球。",
+          "show": "バーチャル高校野球"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "バーチャル高校野球",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "リオネル・メッシ",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "3件目。リオネル・メッシ。",
+          "show": "リオネル・メッシ"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "リオネル・メッシ",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "ヒヨコの脳細胞は酸素が極めて少な…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "4件目。ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる。",
+          "show": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる"
+        },
+        {
+          "say": "人間の脳に酸素が届かなくなると一部の脳細胞は数分で死に始めます。",
+          "show": "人間の脳に酸素が届かなくなると一部の脳細胞は数分で死に始めます。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
+      "link": {
+        "url": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
+        "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "出社してオフィスで働く頻度の最適…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "5件目。出社してオフィスで働く頻度の最適解とは？。",
+          "show": "出社してオフィスで働く頻度の最適解とは？"
+        },
+        {
+          "say": "2019年から発生した新型コロナウイルス感染症によるパンデミックで、多くの企業が従業員に自宅で仕事をさせるリモートワークを実施しました。",
+          "show": "2019年から発生した新型コロナウイルス感染症によるパンデミックで、多くの企業が従業員に自宅で仕事をさせるリモートワークを実施しました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261122-work-at-office/",
+      "link": {
+        "url": "https://gigazine.net/news/20261122-work-at-office/",
+        "title": "出社してオフィスで働く頻度の最適解とは？",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "還暦過ぎたジジイですけど、セルフ…",
+      "points": [
+        "はてなブックマーク 総合",
+        "togetter.com"
+      ],
+      "lines": [
+        {
+          "say": "6件目。還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね、おまけに老眼で説明が見えづらくなってるし。",
+          "show": "還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね、おまけに老眼で説明が見えづらくなってるし"
+        },
+        {
+          "say": "司史生＠なんとか生きている @tsukasafumio 還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね。",
+          "show": "司史生＠なんとか生きている @tsukasafumio 還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね。"
+        }
+      ],
+      "url": "https://togetter.com/li/2773327",
+      "link": {
+        "url": "https://togetter.com/li/2773327",
+        "title": "還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね、おまけに老眼で説明が見えづらくなってるし",
+        "site": "togetter.com"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.827,
+      "show": "おはようございます。11月22日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.577,
+      "end": 11.715,
+      "show": "ソフトウェアファクトリーとコード設計と顧客価値",
+      "part": "news:0"
+    },
+    {
+      "start": 12.065,
+      "end": 16.951,
+      "show": "横軸を時間とし、上段に人、下段にエージェントを置いた図です。",
+      "part": "news:0"
+    },
+    {
+      "start": 17.701,
+      "end": 20.133,
+      "show": "バーチャル高校野球",
+      "part": "news:1"
+    },
+    {
+      "start": 20.883,
+      "end": 23.389,
+      "show": "リオネル・メッシ",
+      "part": "news:2"
+    },
+    {
+      "start": 24.139,
+      "end": 29.75,
+      "show": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
+      "part": "news:3"
+    },
+    {
+      "start": 30.1,
+      "end": 35.369,
+      "show": "人間の脳に酸素が届かなくなると一部の脳細胞は数分で死に始めます。",
+      "part": "news:3"
+    },
+    {
+      "start": 36.119,
+      "end": 40.322,
+      "show": "出社してオフィスで働く頻度の最適解とは？",
+      "part": "news:4"
+    },
+    {
+      "start": 40.672,
+      "end": 50.912,
+      "show": "2019年から発生した新型コロナウイルス感染症によるパンデミックで、多くの企業が従業員に自宅で仕事をさせるリモートワークを実施しました。",
+      "part": "news:4"
+    },
+    {
+      "start": 51.662,
+      "end": 64.142,
+      "show": "還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね、おまけに老眼で説明が見えづらくなってるし",
+      "part": "news:5"
+    },
+    {
+      "start": 64.492,
+      "end": 78.924,
+      "show": "司史生＠なんとか生きている @tsukasafumio 還暦過ぎたジジイですけど、セルフレジで戸惑うのはATMのようにデザインや操作仕様が統一されてないとこなんですよね。",
+      "part": "news:5"
+    },
+    {
+      "start": 79.824,
+      "end": 81.925,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.577
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.577,
+      "end": 17.701
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 17.701,
+      "end": 20.883
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 20.883,
+      "end": 24.139
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 24.139,
+      "end": 36.119
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 36.119,
+      "end": 51.662
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 51.662,
+      "end": 79.824
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 79.824,
+      "end": 81.925
+    }
+  ],
+  "seconds": 84.9,
+  "made_at": "2026-11-22T01:29:00.922241+00:00"
+}
