@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-23",
+  "title": "11月23日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月23日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月23日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "マック",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "1件目。マック。",
+          "show": "マック"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "マック",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "マラー",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。マラー。",
+          "show": "マラー"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "マラー",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "なぜ日本人はアウシュヴィッツが好…",
+      "points": [
+        "はてなブックマーク 総合",
+        "note.com"
+      ],
+      "lines": [
+        {
+          "say": "3件目。なぜ日本人はアウシュヴィッツが好きなのか 日居月諸。",
+          "show": "なぜ日本人はアウシュヴィッツが好きなのか｜日居月諸"
+        },
+        {
+          "say": "この記事の要約 日本人は昔からアウシュヴィッツに高い関心を示してきた。",
+          "show": "この記事の要約 日本人は昔からアウシュヴィッツに高い関心を示してきた。"
+        }
+      ],
+      "url": "https://note.com/nikkyo/n/n72fbc5c51f5e",
+      "link": {
+        "url": "https://note.com/nikkyo/n/n72fbc5c51f5e",
+        "title": "なぜ日本人はアウシュヴィッツが好きなのか｜日居月諸",
+        "site": "note.com"
+      }
+    },
+    {
+      "label": "工学系プログラマー絵描きが生成A…",
+      "points": [
+        "はてなブックマーク IT",
+        "anond.hatelabo.jp"
+      ],
+      "lines": [
+        {
+          "say": "4件目。工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想。",
+          "show": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想"
+        },
+        {
+          "say": "ただの楽しかったという感想記事。",
+          "show": "ただの楽しかったという感想記事。"
+        }
+      ],
+      "url": "https://anond.hatelabo.jp/20261122140104",
+      "link": {
+        "url": "https://anond.hatelabo.jp/20261122140104",
+        "title": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+        "site": "anond.hatelabo.jp"
+      }
+    },
+    {
+      "label": "生殖器をこすることでコウモリから…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "5件目。生殖器をこすることでコウモリから身を守る ガ がいる。",
+          "show": "生殖器をこすることでコウモリから身を守る「ガ」がいる"
+        },
+        {
+          "say": "一部の スズメガ のオスには生殖器の小片を腹部にこすりつけて超音波を出すことでコウモリから身を守る仕組みがあります。",
+          "show": "一部の「スズメガ」のオスには生殖器の小片を腹部にこすりつけて超音波を出すことでコウモリから身を守る仕組みがあります。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261122-hawkmoth-ultrasound-defense/",
+      "link": {
+        "url": "https://gigazine.net/news/20261122-hawkmoth-ultrasound-defense/",
+        "title": "生殖器をこすることでコウモリから身を守る「ガ」がいる",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "中国ではAIリテラシー向上を目指…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "6件目。中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している。",
+          "show": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している"
+        },
+        {
+          "say": "中国はアメリカに対抗するため、AI人材育成パイプラインの構築に力を入れています。",
+          "show": "中国はアメリカに対抗するため、AI人材育成パイプラインの構築に力を入れています。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261122-chinas-ai-native/",
+      "link": {
+        "url": "https://gigazine.net/news/20261122-chinas-ai-native/",
+        "title": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
+        "site": "gigazine.net"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.923,
+      "show": "おはようございます。11月23日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.673,
+      "end": 9.273,
+      "show": "マック",
+      "part": "news:0"
+    },
+    {
+      "start": 10.023,
+      "end": 11.463,
+      "show": "マラー",
+      "part": "news:1"
+    },
+    {
+      "start": 12.213,
+      "end": 16.959,
+      "show": "なぜ日本人はアウシュヴィッツが好きなのか｜日居月諸",
+      "part": "news:2"
+    },
+    {
+      "start": 17.309,
+      "end": 22.824,
+      "show": "この記事の要約 日本人は昔からアウシュヴィッツに高い関心を示してきた。",
+      "part": "news:2"
+    },
+    {
+      "start": 23.574,
+      "end": 30.07,
+      "show": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+      "part": "news:3"
+    },
+    {
+      "start": 30.42,
+      "end": 32.777,
+      "show": "ただの楽しかったという感想記事。",
+      "part": "news:3"
+    },
+    {
+      "start": 33.527,
+      "end": 38.69,
+      "show": "生殖器をこすることでコウモリから身を守る「ガ」がいる",
+      "part": "news:4"
+    },
+    {
+      "start": 39.04,
+      "end": 47.605,
+      "show": "一部の「スズメガ」のオスには生殖器の小片を腹部にこすりつけて超音波を出すことでコウモリから身を守る仕組みがあります。",
+      "part": "news:4"
+    },
+    {
+      "start": 48.355,
+      "end": 58.926,
+      "show": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
+      "part": "news:5"
+    },
+    {
+      "start": 59.276,
+      "end": 65.964,
+      "show": "中国はアメリカに対抗するため、AI人材育成パイプラインの構築に力を入れています。",
+      "part": "news:5"
+    },
+    {
+      "start": 66.864,
+      "end": 68.965,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.673
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.673,
+      "end": 10.023
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 10.023,
+      "end": 12.213
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 12.213,
+      "end": 23.574
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 23.574,
+      "end": 33.527
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 33.527,
+      "end": 48.355
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 48.355,
+      "end": 66.864
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 66.864,
+      "end": 68.965
+    }
+  ],
+  "seconds": 72.0,
+  "made_at": "2026-11-23T01:53:27.955415+00:00"
+}
