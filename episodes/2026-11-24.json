@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-24",
+  "title": "11月24日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月24日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月24日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "宮本慎也",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "1件目。宮本慎也。",
+          "show": "宮本慎也"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "宮本慎也",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "シェフ",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。シェフ。",
+          "show": "シェフ"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "シェフ",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "もうオタク趣味って弱者男性のモノ…",
+      "points": [
+        "はてなブックマーク 総合",
+        "anond.hatelabo.jp"
+      ],
+      "lines": [
+        {
+          "say": "3件目。もうオタク趣味って弱者男性のモノじゃないんだな…。",
+          "show": "もうオタク趣味って弱者男性のモノじゃないんだな…"
+        },
+        {
+          "say": "装甲騎兵ボトムズの新作映画を観に行った 観終わったあとカフェに入ったらどうやら同じ映画の同じ回を観たらしいカップルのすぐ後ろの席に案内された 今回のボトムズは入場者特典でかなり高級…",
+          "show": "装甲騎兵ボトムズの新作映画を観に行った 観終わったあとカフェに入ったらどうやら同じ映画の同じ回を観たらしいカップルのすぐ後ろの席に案内された 今回のボトムズは入場者特典でかなり高級…"
+        }
+      ],
+      "url": "https://anond.hatelabo.jp/20261123200150",
+      "link": {
+        "url": "https://anond.hatelabo.jp/20261123200150",
+        "title": "もうオタク趣味って弱者男性のモノじゃないんだな…",
+        "site": "anond.hatelabo.jp"
+      }
+    },
+    {
+      "label": "アシックスの革靴を履いてから他の…",
+      "points": [
+        "はてなブックマーク 総合",
+        "togetter.com"
+      ],
+      "lines": [
+        {
+          "say": "4件目。アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズもパンプスも 全力疾走できる と愛用者が多いが、4ブランドが終了し新シリーズに。",
+          "show": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズもパンプスも「全力疾走できる」と愛用者が多いが、4ブランドが終了し新シリーズに"
+        },
+        {
+          "say": "鳥山仁 @toriyamazine 一番衝撃的だったのはアシックスの革靴で、あれを履いてからはほかのメーカーの革靴は履けなくなったし、ビジネスパーソンの革靴談義も一切聞かなくなった…",
+          "show": "鳥山仁 @toriyamazine 一番衝撃的だったのはアシックスの革靴で、あれを履いてからはほかのメーカーの革靴は履けなくなったし、ビジネスパーソンの革靴談義も一切聞かなくなった…"
+        }
+      ],
+      "url": "https://togetter.com/li/2773573",
+      "link": {
+        "url": "https://togetter.com/li/2773573",
+        "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズもパンプスも「全力疾走できる」と愛用者が多いが、4ブランドが終了し新シリーズに",
+        "site": "togetter.com"
+      }
+    },
+    {
+      "label": "かつて数学を学んでいたエンジニア…",
+      "points": [
+        "はてなブックマーク IT",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "5件目。かつて数学を学んでいたエンジニアがAIと数学について思うこと。",
+          "show": "かつて数学を学んでいたエンジニアがAIと数学について思うこと"
+        },
+        {
+          "say": "数学における有名な賞であるフィールズ賞を受賞した人々が連名でAIの濫用についての懸念を表明している。",
+          "show": "数学における有名な賞であるフィールズ賞を受賞した人々が連名でAIの濫用についての懸念を表明している。"
+        }
+      ],
+      "url": "https://zenn.dev/339/articles/8efd1f1baec355",
+      "link": {
+        "url": "https://zenn.dev/339/articles/8efd1f1baec355",
+        "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+        "site": "zenn.dev"
+      }
+    },
+    {
+      "label": "コーディングエージェントが変えた…",
+      "points": [
+        "Zenn",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "6件目。コーディングエージェントが変えたOSS開発のプロセスと喜び。",
+          "show": "コーディングエージェントが変えたOSS開発のプロセスと喜び"
+        },
+        {
+          "say": "この記事は、2026年11月11日に公開した英語記事 Coding Agents Are Changing How I Build Open Source and Why I Do…",
+          "show": "この記事は、2026年11月11日に公開した英語記事 Coding Agents Are Changing How I Build Open Source and Why I Do…"
+        }
+      ],
+      "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+      "link": {
+        "url": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
+        "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
+        "site": "zenn.dev"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.795,
+      "show": "おはようございます。11月24日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.545,
+      "end": 9.689,
+      "show": "宮本慎也",
+      "part": "news:0"
+    },
+    {
+      "start": 10.439,
+      "end": 11.879,
+      "show": "シェフ",
+      "part": "news:1"
+    },
+    {
+      "start": 12.629,
+      "end": 16.703,
+      "show": "もうオタク趣味って弱者男性のモノじゃないんだな…",
+      "part": "news:2"
+    },
+    {
+      "start": 17.053,
+      "end": 30.781,
+      "show": "装甲騎兵ボトムズの新作映画を観に行った 観終わったあとカフェに入ったらどうやら同じ映画の同じ回を観たらしいカップルのすぐ後ろの席に案内された 今回のボトムズは入場者特典でかなり高級…",
+      "part": "news:2"
+    },
+    {
+      "start": 31.531,
+      "end": 44.779,
+      "show": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズもパンプスも「全力疾走できる」と愛用者が多いが、4ブランドが終了し新シリーズに",
+      "part": "news:3"
+    },
+    {
+      "start": 45.129,
+      "end": 60.969,
+      "show": "鳥山仁 @toriyamazine 一番衝撃的だったのはアシックスの革靴で、あれを履いてからはほかのメーカーの革靴は履けなくなったし、ビジネスパーソンの革靴談義も一切聞かなくなった…",
+      "part": "news:3"
+    },
+    {
+      "start": 61.719,
+      "end": 67.287,
+      "show": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+      "part": "news:4"
+    },
+    {
+      "start": 67.637,
+      "end": 75.488,
+      "show": "数学における有名な賞であるフィールズ賞を受賞した人々が連名でAIの濫用についての懸念を表明している。",
+      "part": "news:4"
+    },
+    {
+      "start": 76.238,
+      "end": 81.433,
+      "show": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
+      "part": "news:5"
+    },
+    {
+      "start": 81.783,
+      "end": 104.577,
+      "show": "この記事は、2026年11月11日に公開した英語記事 Coding Agents Are Changing How I Build Open Source and Why I Do…",
+      "part": "news:5"
+    },
+    {
+      "start": 105.477,
+      "end": 107.579,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.545
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.545,
+      "end": 10.439
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 10.439,
+      "end": 12.629
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 12.629,
+      "end": 31.531
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 31.531,
+      "end": 61.719
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 61.719,
+      "end": 76.238
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 76.238,
+      "end": 105.477
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 105.477,
+      "end": 107.579
+    }
+  ],
+  "seconds": 110.6,
+  "made_at": "2026-11-24T05:24:54.420386+00:00"
+}
