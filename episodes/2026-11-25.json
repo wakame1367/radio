@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-25",
+  "title": "11月25日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月25日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月25日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "上海市トップ・陳吉寧失脚の衝撃",
+      "points": [
+        "はてなブックマーク 総合",
+        "ysd.theletter.jp"
+      ],
+      "lines": [
+        {
+          "say": "1件目。上海市トップ・陳吉寧失脚の衝撃。",
+          "show": "上海市トップ・陳吉寧失脚の衝撃"
+        },
+        {
+          "say": "中国で党中央紀律検査委員会から 調査 を受けるということは、通常は実質的に失脚を意味します。",
+          "show": "中国で党中央紀律検査委員会から「調査」を受けるということは、通常は実質的に失脚を意味します。"
+        }
+      ],
+      "url": "https://ysd.theletter.jp/posts/d09b8154-c488-4a4c-860e-cc76e8fba5ab",
+      "link": {
+        "url": "https://ysd.theletter.jp/posts/d09b8154-c488-4a4c-860e-cc76e8fba5ab",
+        "title": "上海市トップ・陳吉寧失脚の衝撃",
+        "site": "ysd.theletter.jp"
+      }
+    },
+    {
+      "label": "退職代行モームリを利用された企業…",
+      "points": [
+        "はてなブックマーク 総合",
+        "prtimes.jp"
+      ],
+      "lines": [
+        {
+          "say": "2件目。退職代行モームリを利用された企業ランキング公開。",
+          "show": "退職代行モームリを利用された企業ランキング公開"
+        },
+        {
+          "say": "退職代行モームリを管理している株式会社アルバトロス（本社：神奈川県横浜市、代表取締役：浜田 優花）は、2026年11月10日（火）時点での企業ランキングなどの最新の退職代行利用デー…",
+          "show": "退職代行モームリを管理している株式会社アルバトロス（本社：神奈川県横浜市、代表取締役：浜田 優花）は、2026年11月10日（火）時点での企業ランキングなどの最新の退職代行利用デー…"
+        }
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000036.000103965.html",
+      "link": {
+        "url": "https://prtimes.jp/main/html/rd/p/000000036.000103965.html",
+        "title": "退職代行モームリを利用された企業ランキング公開",
+        "site": "prtimes.jp"
+      }
+    },
+    {
+      "label": "はてブで投資系のブクマにスター付…",
+      "points": [
+        "はてなブックマーク IT",
+        "anond.hatelabo.jp"
+      ],
+      "lines": [
+        {
+          "say": "3件目。はてブで投資系のブクマにスター付けまくってる謎のアカウント。",
+          "show": "はてブで投資系のブクマにスター付けまくってる謎のアカウント"
+        },
+        {
+          "say": "なんなの？",
+          "show": "なんなの？"
+        }
+      ],
+      "url": "https://anond.hatelabo.jp/20261121084231",
+      "link": {
+        "url": "https://anond.hatelabo.jp/20261121084231",
+        "title": "はてブで投資系のブクマにスター付けまくってる謎のアカウント",
+        "site": "anond.hatelabo.jp"
+      }
+    },
+    {
+      "label": "金",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "4件目。金。",
+          "show": "金"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "金",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "一松旬",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "5件目。一松旬。",
+          "show": "一松旬"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "一松旬",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "マーダーミステリーのシナリオを形…",
+      "points": [
+        "Zenn",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "6件目。マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった。",
+          "show": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった"
+        },
+        {
+          "say": "形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。",
+          "show": "形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。"
+        }
+      ],
+      "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+      "link": {
+        "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+        "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+        "site": "zenn.dev"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.837,
+      "show": "おはようございます。11月25日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.587,
+      "end": 12.131,
+      "show": "上海市トップ・陳吉寧失脚の衝撃",
+      "part": "news:0"
+    },
+    {
+      "start": 12.481,
+      "end": 20.524,
+      "show": "中国で党中央紀律検査委員会から「調査」を受けるということは、通常は実質的に失脚を意味します。",
+      "part": "news:0"
+    },
+    {
+      "start": 21.274,
+      "end": 25.914,
+      "show": "退職代行モームリを利用された企業ランキング公開",
+      "part": "news:1"
+    },
+    {
+      "start": 26.264,
+      "end": 43.555,
+      "show": "退職代行モームリを管理している株式会社アルバトロス（本社：神奈川県横浜市、代表取締役：浜田 優花）は、2026年11月10日（火）時点での企業ランキングなどの最新の退職代行利用デー…",
+      "part": "news:1"
+    },
+    {
+      "start": 44.305,
+      "end": 49.19,
+      "show": "はてブで投資系のブクマにスター付けまくってる謎のアカウント",
+      "part": "news:2"
+    },
+    {
+      "start": 49.54,
+      "end": 50.393,
+      "show": "なんなの？",
+      "part": "news:2"
+    },
+    {
+      "start": 51.143,
+      "end": 52.615,
+      "show": "金",
+      "part": "news:3"
+    },
+    {
+      "start": 53.365,
+      "end": 55.253,
+      "show": "一松旬",
+      "part": "news:4"
+    },
+    {
+      "start": 56.003,
+      "end": 63.161,
+      "show": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+      "part": "news:5"
+    },
+    {
+      "start": 63.511,
+      "end": 70.657,
+      "show": "形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。",
+      "part": "news:5"
+    },
+    {
+      "start": 71.557,
+      "end": 73.659,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.587
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.587,
+      "end": 21.274
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 21.274,
+      "end": 44.305
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 44.305,
+      "end": 51.143
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 51.143,
+      "end": 53.365
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 53.365,
+      "end": 56.003
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 56.003,
+      "end": 71.557
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 71.557,
+      "end": 73.659
+    }
+  ],
+  "seconds": 76.7,
+  "made_at": "2026-11-25T04:24:59.587539+00:00"
+}
