@@ -1,0 +1,275 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-27",
+  "title": "11月27日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月27日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月27日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "ぱんちゃん璃奈",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "1件目。ぱんちゃん璃奈。",
+          "show": "ぱんちゃん璃奈"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "ぱんちゃん璃奈",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "梅野隆太郎",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。梅野隆太郎。",
+          "show": "梅野隆太郎"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "梅野隆太郎",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "自動運転の予測軌跡の可視化動画を…",
+      "points": [
+        "Zenn",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "3件目。自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする。",
+          "show": "自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする"
+        },
+        {
+          "say": "MLOps チーム の @stu3dio_graph です。",
+          "show": "MLOps チーム の @stu3dio_graph です。"
+        }
+      ],
+      "url": "https://zenn.dev/turing_motors/articles/cbf9872ca90166",
+      "link": {
+        "url": "https://zenn.dev/turing_motors/articles/cbf9872ca90166",
+        "title": "自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする",
+        "site": "zenn.dev"
+      }
+    },
+    {
+      "label": "個人の目標設定に悩んでいたら、ア…",
+      "points": [
+        "Zenn",
+        "zenn.dev"
+      ],
+      "lines": [
+        {
+          "say": "4件目。個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話。",
+          "show": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話"
+        },
+        {
+          "say": "こちらのイベントで5分LTに登壇したのですが、スライドでは省略したことがかなりあったので記事にしました。",
+          "show": "こちらのイベントで5分LTに登壇したのですが、スライドでは省略したことがかなりあったので記事にしました。"
+        }
+      ],
+      "url": "https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d",
+      "link": {
+        "url": "https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d",
+        "title": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話",
+        "site": "zenn.dev"
+      }
+    },
+    {
+      "label": "主人公とヒロインが結ばれてたのに…",
+      "points": [
+        "はてなブックマーク 総合",
+        "togetter.com"
+      ],
+      "lines": [
+        {
+          "say": "5件目。主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せられ これがリアルだ ってやってきた作品に怒り狂ったことがある。",
+          "show": "主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せられ「これがリアルだ」ってやってきた作品に怒り狂ったことがある"
+        },
+        {
+          "say": "kiki@ お前ごときが魔王に～ 小説全8巻・アニメ全12話配信中！",
+          "show": "kiki@「お前ごときが魔王に～」小説全8巻・アニメ全12話配信中！"
+        }
+      ],
+      "url": "https://togetter.com/li/2774782",
+      "link": {
+        "url": "https://togetter.com/li/2774782",
+        "title": "主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せられ「これがリアルだ」ってやってきた作品に怒り狂ったことがある",
+        "site": "togetter.com"
+      }
+    },
+    {
+      "label": "さくらのクラウド、新ネットワーク…",
+      "points": [
+        "Publickey",
+        "www.publickey1.jp"
+      ],
+      "lines": [
+        {
+          "say": "6件目。さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表。",
+          "show": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表"
+        },
+        {
+          "say": "さくらインターネットは11月25日と26日の2日間、大規模イベント SAKURA DEKIRU Conference 2026 を都内で開催し、さくらのクラウドに関して東京リージョ…",
+          "show": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催し、さくらのクラウドに関して東京リージョ…"
+        }
+      ],
+      "url": "https://www.publickey1.jp/blog/26/post_310.html",
+      "link": {
+        "url": "https://www.publickey1.jp/blog/26/post_310.html",
+        "title": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
+        "site": "www.publickey1.jp"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.955,
+      "show": "おはようございます。11月27日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.705,
+      "end": 9.454,
+      "show": "ぱんちゃん璃奈",
+      "part": "news:0"
+    },
+    {
+      "start": 10.204,
+      "end": 12.284,
+      "show": "梅野隆太郎",
+      "part": "news:1"
+    },
+    {
+      "start": 13.034,
+      "end": 18.847,
+      "show": "自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする",
+      "part": "news:2"
+    },
+    {
+      "start": 19.197,
+      "end": 27.069,
+      "show": "MLOps チーム の @stu3dio_graph です。",
+      "part": "news:2"
+    },
+    {
+      "start": 27.819,
+      "end": 34.689,
+      "show": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話",
+      "part": "news:3"
+    },
+    {
+      "start": 35.039,
+      "end": 42.089,
+      "show": "こちらのイベントで5分LTに登壇したのですが、スライドでは省略したことがかなりあったので記事にしました。",
+      "part": "news:3"
+    },
+    {
+      "start": 42.839,
+      "end": 54.562,
+      "show": "主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せられ「これがリアルだ」ってやってきた作品に怒り狂ったことがある",
+      "part": "news:4"
+    },
+    {
+      "start": 54.912,
+      "end": 61.899,
+      "show": "kiki@「お前ごときが魔王に～」小説全8巻・アニメ全12話配信中！",
+      "part": "news:4"
+    },
+    {
+      "start": 62.649,
+      "end": 72.195,
+      "show": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
+      "part": "news:5"
+    },
+    {
+      "start": 72.545,
+      "end": 87.841,
+      "show": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催し、さくらのクラウドに関して東京リージョ…",
+      "part": "news:5"
+    },
+    {
+      "start": 88.741,
+      "end": 90.843,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.705
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.705,
+      "end": 10.204
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 10.204,
+      "end": 13.034
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 13.034,
+      "end": 27.819
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 27.819,
+      "end": 42.839
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 42.839,
+      "end": 62.649
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 62.649,
+      "end": 88.741
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 88.741,
+      "end": 90.843
+    }
+  ],
+  "seconds": 93.8,
+  "made_at": "2026-11-27T03:42:26.483440+00:00"
+}
