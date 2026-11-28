@@ -1,0 +1,265 @@
+{
+  "format": "radio/episode-1",
+  "date": "2026-11-28",
+  "title": "11月28日のネットニュース",
+  "opening": [
+    {
+      "say": "おはようございます。11月28日の朝のニュースをお届けします。今日は6件の話題です。",
+      "show": "おはようございます。11月28日の朝のニュースをお届けします。今日は6件の話題です。"
+    }
+  ],
+  "news": [
+    {
+      "label": "ピクリエの二次創作政治禁止の声明…",
+      "points": [
+        "はてなブックマーク 総合",
+        "anond.hatelabo.jp"
+      ],
+      "lines": [
+        {
+          "say": "1件目。ピクリエの二次創作政治禁止の声明は筋が悪い。",
+          "show": "ピクリエの二次創作政治禁止の声明は筋が悪い"
+        },
+        {
+          "say": "オンライン同人イベント運営のピクリエが規約を改定した話。",
+          "show": "オンライン同人イベント運営のピクリエが規約を改定した話。"
+        }
+      ],
+      "url": "https://anond.hatelabo.jp/20261126184704",
+      "link": {
+        "url": "https://anond.hatelabo.jp/20261126184704",
+        "title": "ピクリエの二次創作政治禁止の声明は筋が悪い",
+        "site": "anond.hatelabo.jp"
+      }
+    },
+    {
+      "label": "相続",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "2件目。相続。",
+          "show": "相続"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "相続",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "昭和天皇記念館",
+      "points": [
+        "Google Trends JP",
+        "trends.google.com"
+      ],
+      "lines": [
+        {
+          "say": "3件目。昭和天皇記念館。",
+          "show": "昭和天皇記念館"
+        }
+      ],
+      "url": "https://trends.google.com/trending/rss?geo=JP",
+      "link": {
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "title": "昭和天皇記念館",
+        "site": "trends.google.com"
+      }
+    },
+    {
+      "label": "ゴミ捨て場で大量のアポピスの儀式…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "4件目。ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに。",
+          "show": "ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに"
+        },
+        {
+          "say": "エジプトの古代都市であるテーベの遺跡で、焼け焦げたパピルス(古代エジプトで利用された紙)の断片40点が見つかりました。",
+          "show": "エジプトの古代都市であるテーベの遺跡で、焼け焦げたパピルス(古代エジプトで利用された紙)の断片40点が見つかりました。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261127-curse-ritual-widespread-ancient-egypt/",
+      "link": {
+        "url": "https://gigazine.net/news/20261127-curse-ritual-widespread-ancient-egypt/",
+        "title": "ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "有酸素運動と筋力トレーニングの順…",
+      "points": [
+        "GIGAZINE",
+        "gigazine.net"
+      ],
+      "lines": [
+        {
+          "say": "5件目。有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果。",
+          "show": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果"
+        },
+        {
+          "say": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。",
+          "show": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。"
+        }
+      ],
+      "url": "https://gigazine.net/news/20261127-workout-blood-sugar/",
+      "link": {
+        "url": "https://gigazine.net/news/20261127-workout-blood-sugar/",
+        "title": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
+        "site": "gigazine.net"
+      }
+    },
+    {
+      "label": "ノンフライヤーはからあげだけじゃ…",
+      "points": [
+        "はてなブックマーク 総合",
+        "kaden.watch.impress.co.jp"
+      ],
+      "lines": [
+        {
+          "say": "6件目。ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも。",
+          "show": "ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも"
+        }
+      ],
+      "url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
+      "link": {
+        "url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
+        "title": "ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも",
+        "site": "kaden.watch.impress.co.jp"
+      }
+    }
+  ],
+  "closing": [
+    {
+      "say": "以上、今朝のニュースでした。",
+      "show": "以上、今朝のニュースでした。"
+    }
+  ],
+  "lines_timed": [
+    {
+      "start": 0.0,
+      "end": 6.965,
+      "show": "おはようございます。11月28日の朝のニュースをお届けします。今日は6件の話題です。",
+      "part": "opening"
+    },
+    {
+      "start": 7.715,
+      "end": 12.483,
+      "show": "ピクリエの二次創作政治禁止の声明は筋が悪い",
+      "part": "news:0"
+    },
+    {
+      "start": 12.833,
+      "end": 17.164,
+      "show": "オンライン同人イベント運営のピクリエが規約を改定した話。",
+      "part": "news:0"
+    },
+    {
+      "start": 17.914,
+      "end": 19.535,
+      "show": "相続",
+      "part": "news:1"
+    },
+    {
+      "start": 20.285,
+      "end": 22.835,
+      "show": "昭和天皇記念館",
+      "part": "news:2"
+    },
+    {
+      "start": 23.585,
+      "end": 32.289,
+      "show": "ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに",
+      "part": "news:3"
+    },
+    {
+      "start": 32.639,
+      "end": 41.503,
+      "show": "エジプトの古代都市であるテーベの遺跡で、焼け焦げたパピルス(古代エジプトで利用された紙)の断片40点が見つかりました。",
+      "part": "news:3"
+    },
+    {
+      "start": 42.253,
+      "end": 49.41,
+      "show": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
+      "part": "news:4"
+    },
+    {
+      "start": 49.76,
+      "end": 60.277,
+      "show": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。",
+      "part": "news:4"
+    },
+    {
+      "start": 61.027,
+      "end": 66.649,
+      "show": "ノンフライヤーはからあげだけじゃない 夕飯作りラクにしてくれるかも",
+      "part": "news:5"
+    },
+    {
+      "start": 67.549,
+      "end": 69.65,
+      "show": "以上、今朝のニュースでした。",
+      "part": "closing"
+    }
+  ],
+  "segments": [
+    {
+      "kind": "opening",
+      "index": -1,
+      "start": 0.0,
+      "end": 7.715
+    },
+    {
+      "kind": "news",
+      "index": 0,
+      "start": 7.715,
+      "end": 17.914
+    },
+    {
+      "kind": "news",
+      "index": 1,
+      "start": 17.914,
+      "end": 20.285
+    },
+    {
+      "kind": "news",
+      "index": 2,
+      "start": 20.285,
+      "end": 23.585
+    },
+    {
+      "kind": "news",
+      "index": 3,
+      "start": 23.585,
+      "end": 42.253
+    },
+    {
+      "kind": "news",
+      "index": 4,
+      "start": 42.253,
+      "end": 61.027
+    },
+    {
+      "kind": "news",
+      "index": 5,
+      "start": 61.027,
+      "end": 67.549
+    },
+    {
+      "kind": "closing",
+      "index": -1,
+      "start": 67.549,
+      "end": 69.65
+    }
+  ],
+  "seconds": 72.7,
+  "made_at": "2026-11-28T03:24:54.756374+00:00"
+}
